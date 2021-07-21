@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------
+PIXEL CHARACTER ANIMATIONS (VERSION 1.4)
+-------------------------------------------------------------------------
+
+Hello!
+
+This notepad provides the steps to making your own Attack animations with the PNG files.
+
+This pack was made using Aseprite and only Patrons are granted access to the aseprite file. If you do not own this software and/or are not a Patron then you are still on luck. I have exported every layer in order for you to be able to make your own regardless of the software or whether you are a Patron or not.
+
+-------------------------------------------------------------------------
+ATTACK ANIMATIONS WITH A SWORD AND SHIELD
+-------------------------------------------------------------------------
+
+1. Open your editing software
+2. Open the SHIELD folder then browse through the "2Gladiator_Atlas" folder and select the shield you desire. 
+3. Go through the ARMOR, PANTS, SHIRT, WEAPONS folders and select "2Gladiator_Atlas" 
+4. Choose the images you like and open the images.
+5. Open the Base folder and open the PNG named "64x48_Gladiator_Attacks". Copy and paste it over the SHIELDS
+6. Copy the ARMOR SKIN that you selected and paste it on top.
+7. Copy the PANTS and SHIRT (no order necessary) and paste it on top.
+8. Copy the SWORD SKIN you chose and paste it on top of everything.
+9. Now you have made your own gladiator that you can export.
+
+-------------------------------------------------------------------------
+EXTRA INFORMATION
+-------------------------------------------------------------------------
+Some information regarding the sprite dimensions
+- Width: 48px
+- Length: 64px
+
+Please make sure you read the License of the pack. This can be found at the bottom of the packs website
+
+Link: https://admurin.itch.io/pixel-character
+
+Thank you for purchasing this pack. If you like the content please leave a review and/or a comment to let me know. I read all of them.
