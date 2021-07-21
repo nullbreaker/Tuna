@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/water.wav-9b9788fb7572b109424e5aa4d9e3da47.sample"
+
+[deps]
+
+source_file="res://assets/8bit-SFX-Library/Environment/water.wav"
+dest_files=[ "res://.import/water.wav-9b9788fb7572b109424e5aa4d9e3da47.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
